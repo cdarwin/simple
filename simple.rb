@@ -7,6 +7,6 @@ get '/' do
 end
 
 get '/test' do
-  sleep(2)
+  sleep(rand(3))
   'I was tired'
 end
