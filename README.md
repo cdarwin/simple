@@ -2,3 +2,5 @@
 
 
 This is an app is pretty dumb
+
+Baseline perf
