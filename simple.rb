@@ -3,7 +3,7 @@
 set :bind, '0.0.0.0'
 
 get '/' do
-   sleep(rand(3))
+   sleep(rand(2))
    'Hello world!'
 end
 
