@@ -7,4 +7,4 @@ Baseline perf
 
 Still trying
 
-test swarm
+test swarms
