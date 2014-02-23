@@ -5,7 +5,7 @@ This is an app is pretty dumb
 
 Baseline perf
 
-Still trying
+Still tryings
 
 test swarms,
 ....-.=s
