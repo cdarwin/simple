@@ -1,4 +1,4 @@
 # Simple Sinatra
 
 
-This is an app
+This is an app is pretty dumb
