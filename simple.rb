@@ -3,11 +3,13 @@
 set :bind, '0.0.0.0'
 
 get '/' do
-   sleep(rand(2))
+   wait_for = 0.01
+   sleep(rand(0.0..wait_for))
    'Hello world!'
 end
 
 get '/test' do
-  sleep(rand(1))
+  wait_for = 0.1
+  sleep(rand(0.0..wait_for))
   'I was tired'
 end
