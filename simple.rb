@@ -9,7 +9,7 @@ get '/' do
 end
 
 get '/test' do
-  wait_for = 0.9
+  wait_for = 0.5
   sleep(rand(0.0..wait_for))
   'I was tired'
 end
