@@ -2,10 +2,10 @@ endpoints:
   -
     name: homepage
     uri: '/'
-    max_response_time: 0.02
-    target_response_time: 0.01
+    max_response_time: 0.05
+    target_response_time: 0.02
   -
     name: test
     uri: '/test'
-    max_response_time: 0.2
-    target_response_time: 0.1
+    max_response_time: 0.5
+    target_response_time: 0.2
